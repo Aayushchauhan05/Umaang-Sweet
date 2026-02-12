@@ -19,7 +19,8 @@
 
 <br />
 
-### Demo Screeshots
+### Demo Screeshot
+
 
 ![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
